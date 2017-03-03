@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379875356 source:d:\program files\codeblocks\fsminorquestion\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378116024 source:d:\program files\codeblocks\fsbinarysearchtreeindexedfiles\main.cpp
+	<iostream>
+	<fstream>
+

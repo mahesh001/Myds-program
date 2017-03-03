@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1383815342 source:c:\users\sneha\desktop\homework ds fs\huffmanscode\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstring>
+	<fstream>
+

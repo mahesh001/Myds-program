@@ -1,0 +1,48 @@
+1.)Konboot Bootable pendrive (magic pen drive)
+
+C:\windows\sustem32\config\sam
+
+2.) NET USER COMMAND
+
+net user "<username>" new password
+
+3.) NT offline password cracker
+
+M35PM-RP24K-9103v-4QA66
+
+EDIT USERNAME AND PASSWORDS
+PRESS ENTER
+EDIT USERNAME AND PASSWORD
+PROMOTE USERNAME
+
+INsTALL VMWARE
+ MAIL ID:rahul.gupta@cybercure.in
+ 
+facebook.com/rahulgupta.hacker
+
+contact no:9555550880
+
+
+OS Hacking,
+
+press shift 5 times
+run "explorer.exe" and "start notepad.exe"
+gains access to HDD
+
+
+FOR LOCKING FOLDERS
+
+cacls Private /e /p everyone:n
+cacls Private /e /p everyone:f
+
+n = no control
+f = full control
+
+then in cmd,
+
+cd desktop
+
+(folders name is private)
+
+
+*delete NTLDR file to permanently crash windows

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1376909639 source:d:\program files\codeblocks\fsemployeedetailsrep\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+

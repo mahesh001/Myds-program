@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1382319251 source:d:\program files\codeblocks\leastcostdijkstras\main.cpp
+	<iostream>
+	<fstream>
+
+1382319369 source:c:\users\sneha\desktop\homework ds fs\leastcostdijkstras\main.cpp
+	<iostream>
+	<fstream>
+

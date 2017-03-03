@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1377607508 source:d:\program files\codeblocks\fscgpasorting\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+

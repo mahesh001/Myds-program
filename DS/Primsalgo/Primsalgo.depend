@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1382186948 source:c:\documents and settings\dell\desktop\primsalgo\main.cpp
+	<iostream>
+	<fstream>
+

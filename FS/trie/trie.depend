@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1381961520 source:c:\documents and settings\dell\desktop\trie\main.cpp
+	<iostream>
+	<string>
+
+1383556310 source:c:\users\sneha\desktop\homework ds fs\trie\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
